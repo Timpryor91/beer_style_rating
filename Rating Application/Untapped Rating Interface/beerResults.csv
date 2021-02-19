@@ -1,0 +1,26 @@
+Beer Style,Average Rating,Standard Deviation,Number of Reviews
+Lager,3.208,0.426,711
+Pilsner,3.353,0.241,224
+Miscellaneous,3.362,0.519,447
+UK,3.456,0.182,150
+German,3.512,0.172,424
+Wheat Beer,3.542,0.2,252
+Red Ale,3.552,0.204,357
+Pale Ale,3.575,0.267,538
+Bock,3.603,0.26,173
+Brown Ale,3.623,0.224,204
+All Beers,3.665,0.374,8421
+Lambic,3.678,0.45,254
+Single IPA,3.706,0.25,1116
+Mead,3.709,0.263,30
+Single Porter,3.719,0.22,299
+Single Stout,3.723,0.25,375
+Belgian,3.729,0.209,496
+Farmhouse Ale,3.736,0.298,329
+Alernative IPA,3.759,0.166,150
+Strong,3.778,0.287,180
+Barleywine,3.866,0.237,108
+Sour,3.946,0.273,452
+Double Porter,3.994,0.263,62
+Double IPA,4.01,0.255,540
+Double Stout,4.093,0.25,550
