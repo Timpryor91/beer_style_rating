@@ -1,6 +1,5 @@
 # -*- coding: utf-8 -*-
 """
-Created on Wed Feb 17 19:52:01 2021
 
 @author: timpr
 """
