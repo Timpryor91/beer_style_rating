@@ -15,7 +15,6 @@ from modules.style_list import get_style_list
 def initiate_interface(style_avgs, style_stdevs, all_beers):
     """
     Initiates an instance of the Untappd Adjuster Beer Rating interface
-
     Args:
         style_avgs (Dict<String,float>):   Dictionary with style group names as keys, 
                                            average rating as value
@@ -30,8 +29,6 @@ def initiate_interface(style_avgs, style_stdevs, all_beers):
         """
         Creates a plot showing where a beer rating falls on its normal distribution
         """    
-        # TEMP PLACEHOLDER EXAMPLE CODE
-        
         # Calculate beer style rating and populate results cell
         beer_rating = float(beer_rating_entry.get())
         if (beer_rating < style_avgs[current_style.get()] - 1.5*style_stdevs[current_style.get()]):
